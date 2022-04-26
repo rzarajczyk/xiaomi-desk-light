@@ -2,7 +2,7 @@ from apscheduler.schedulers.blocking import BlockingScheduler
 from homie_helpers import MqttSettings
 
 from XiaomiDeskLight import XiaomiDeskLight
-from bootstrap import start_service
+from bootstrap.bootstrap import start_service
 
 config, logger = start_service()
 

@@ -1,1 +1,1 @@
-# xiaomi-desk-light
+# xiaomi-desk-light-to-mqtt
